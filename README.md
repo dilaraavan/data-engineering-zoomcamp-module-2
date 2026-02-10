@@ -36,6 +36,12 @@ The dataset uploaded to **BigQuery** in the `zoomcamp_ny_taxi` dataset can be se
 
 ![GCP Dataset - Taxi Tables](images/gcp_dataset.png)
 
+### Green Taxi 2020 Execution (Kestra)
+
+The Green Taxi 2020 data flow executed successfully in Kestra:
+
+![Green Taxi 2020 Execution Success](images/green_taxi_2020_execution.png)
+
 ## Data Used  
 
 - **Yellow Taxi Data:** 2019, 2020, 2021 (Jan–Jul)  
