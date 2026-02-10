@@ -44,8 +44,8 @@ The Green Taxi 2020 data flow executed successfully in Kestra:
 
 ## Data Used  
 
-- **Yellow Taxi Data:** 2019, 2020, 2021 (Jan–Jul)  
-- **Green Taxi Data:** 2019, 2020, 2021 (Jan–Jul)  
+- **Yellow Taxi Data:** 2019, 2020, 2021  
+- **Green Taxi Data:** 2019, 2020, 2021  
 - Source: Source: [DataTalksClub NYC TLC Data Releases](https://github.com/DataTalksClub/nyc-tlc-data/releases)
 - Data uploaded to **GCS** and merged into **BigQuery partitioned tables**:  
   - `zoomcamp_ny_taxi.yellow_tripdata`  
