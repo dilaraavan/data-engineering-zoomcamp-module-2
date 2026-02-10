@@ -30,6 +30,12 @@ This project implements an end-to-end data pipeline orchestrated with **Kestra**
 
 In summary, **Kestra handles orchestration**, **GCS handles storage**, and **BigQuery handles analytics**.
 
+### GCP Dataset Overview
+
+The dataset uploaded to **BigQuery** in the `zoomcamp_ny_taxi` dataset can be seen below:
+
+![GCP Dataset - Taxi Tables](images/gcp_dataset.png)
+
 ## Data Used  
 
 - **Yellow Taxi Data:** 2019, 2020, 2021 (Jan–Jul)  
