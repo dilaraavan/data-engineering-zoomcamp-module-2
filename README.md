@@ -34,13 +34,13 @@ In summary, **Kestra handles orchestration**, **GCS handles storage**, and **Big
 
 The dataset uploaded to **BigQuery** in the `zoomcamp_ny_taxi` dataset can be seen below:
 
-![GCP Dataset - Taxi Tables](images/gcp_dataset.png)
+<img src="images/gcp_dataset.png" alt="GCP Dataset" width="500"/>
 
 ### Green Taxi 2020 Execution (Kestra)
 
 The Green Taxi 2020 data flow executed successfully in Kestra:
 
-![Green Taxi 2020 Execution Success](images/green_taxi_2020_execution.png)
+<img src="images/green_taxi_2020_execution.png" alt="Green Taxi 2020 Execution" width="500"/>
 
 ## Data Used  
 
@@ -110,7 +110,7 @@ Note: Minor row count differences may occur due to dataset versions and ingestio
 - 1,925,152  
 - 2,561,031
 
-![SQL Result - Yellow Taxi March 2021](images/sql_yellow_2021_03.png)
+<img src="images/sql_yellow_2021_03.png" alt="Yellow Taxi March 2021 SQL Result" width="500"/>
 
 **Answer:** **1,925,152**
 
