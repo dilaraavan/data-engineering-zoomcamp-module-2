@@ -108,7 +108,9 @@ Note: Minor row count differences may occur due to dataset versions and ingestio
 - 1,428,092  
 - 706,911  
 - 1,925,152  
-- 2,561,031  
+- 2,561,031
+
+![SQL Result - Yellow Taxi March 2021](images/sql_yellow_2021_03.png)
 
 **Answer:** **1,925,152**
 
